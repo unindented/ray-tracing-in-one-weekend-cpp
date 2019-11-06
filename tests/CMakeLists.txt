@@ -2,7 +2,7 @@
 FetchContent_Declare(
   catch2
   GIT_REPOSITORY https://github.com/catchorg/Catch2.git
-  GIT_TAG        v2.10.2
+  GIT_TAG        v2.11.1
 )
 # Adds `Catch2::Catch2`
 FetchContent_MakeAvailable(catch2)
