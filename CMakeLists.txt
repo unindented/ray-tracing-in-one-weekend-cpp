@@ -6,7 +6,7 @@ if(${CMAKE_VERSION} VERSION_LESS 3.12)
 endif()
 
 project(RayTracingInOneWeekend
-  VERSION 0.1
+  VERSION 0.2
   DESCRIPTION "Ray Tracing in One Weekend (C++)"
   LANGUAGES CXX
 )
